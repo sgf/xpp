@@ -1,4 +1,4 @@
-**deprecated**
+**canceled**
 
 We have now found an ideal language with the potential to replace C++. Especially in the field of game development. <br>
 it's name Beef —— https://github.com/beefytech/Beef <br>
